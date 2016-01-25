@@ -1,0 +1,7 @@
+#Install the following gems
+gem install cucumber
+gem install selenium-webdriver
+gem install rspec
+
+#Run this command
+cucumber BS_USERNAME=<username> BS_AUTHKEY=<access_key> SELENIUM_PLATFORM=WINDOWS SELENIUM_BROWSER=chrome
