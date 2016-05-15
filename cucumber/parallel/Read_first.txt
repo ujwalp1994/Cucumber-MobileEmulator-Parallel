@@ -1,5 +1,6 @@
 #Install the following gems
 gem install cucumber
+gem install rake
 gem install selenium-webdriver
 gem install rspec
 gem install parallel
