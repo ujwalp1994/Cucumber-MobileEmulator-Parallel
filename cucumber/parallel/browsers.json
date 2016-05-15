@@ -1,35 +1,28 @@
 [
   {
-    "browser": "firefox",
-    "browser_version": "43.0",
+    "browser": "Firefox",
+    "browser_version": "45.0",
     "device": null,
     "os": "OS X",
-    "os_version": "Snow Leopard"
+    "os_version": "Yosemite"
   },
   {
-    "browser": "firefox",
-    "browser_version": "42.0",
+    "browser": "Firefox",
+    "browser_version": "46.0",
     "device": null,
     "os": "Windows",
     "os_version": "7"
   },
   {
     "browser": "Chrome",
-    "browser_version": "47.0",
+    "browser_version": "49.0",
     "device": null,
     "os": "Windows",
     "os_version": "8"
   },
   {
     "browser": "ie",
-    "browser_version": "8.0",
-    "device": null,
-    "os": "Windows",
-    "os_version": "7"
-  },
-  {
-    "browser": "ie",
-    "browser_version": "9.0",
+    "browser_version": "11.0",
     "device": null,
     "os": "Windows",
     "os_version": "7"
@@ -40,5 +33,12 @@
     "device": null,
     "os": "Windows",
     "os_version": "8"
+  },
+  {
+    "browser": "ie",
+    "browser_version": "11.0",
+    "device": null,
+    "os": "Windows",
+    "os_version": "8.1"
   }
 ]
