@@ -6,4 +6,4 @@ gem install rspec
 gem install parallel
 
 #Run this command
-rake BS_USERNAME=<username> BS_AUTHKEY=<access_key> nodes=3
+rake BS_USERNAME=<username> BS_AUTHKEY=<access_key> nodes=2
