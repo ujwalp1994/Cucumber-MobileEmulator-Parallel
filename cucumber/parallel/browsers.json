@@ -3,11 +3,6 @@
     "browserName": "iPhone",
     "platform": "MAC",
     "device": "iPhone 6S"
-  },{
-
-     "browserName": "iPhone",
-    "platform": "MAC",
-    "device": "iPhone 5"
   } //Add more devices here...
 ]
 
